@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vanchika
+# Hi! I'm Vanchika
 
 💻 Developer | 🚀 Tech Enthusiast  
 

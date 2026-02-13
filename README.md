@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋 I'm Vanchika
 
-<!--
-**Vanchika777/Vanchika777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+## Currently Learning
+- Data Structures & Algorithms
+- Web Development
+- Backend Development
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Java
+- JavaScript ES6+
+- HTML/CSS
+- Git & GitHub
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/vanchika-raghav-7735ba37a/
+- Email: vanchika.raghav7@gmail.com
+

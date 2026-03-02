@@ -12,6 +12,7 @@
 - Python
 - Java
 - JavaScript ES6+
+- Golang
 - HTML/CSS
 - Git & GitHub
 
